@@ -1,0 +1,4 @@
+output.logs
+errorShots
+node_modules
+mochaReports
